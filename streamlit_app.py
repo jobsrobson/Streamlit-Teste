@@ -8,10 +8,11 @@ O Streamlit é uma biblioteca de código aberto que facilita a criação de apli
 O código é desenvolvido em Python usando a biblioteca Streamlit.
 
 Para fazer o deploy, basta criar um novo repositório público no GitHub (gratuito) com os arquivos app.py e requirements.txt. Após, basta conectar esse repositório ao site do Streamlit. A plataforma gera um URL e hospeda todo o aplicativo.
-
-"""
+Também é possível inserir o aplicativo em um website próprio, por meio de um iframe.
 
 ---
+
+"""
 
 """
 # Ocorrências na Aviação Civil Brasileira
