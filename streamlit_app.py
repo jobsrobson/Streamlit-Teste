@@ -5,13 +5,16 @@ import pandas as pd
 
 #### Esse dashboard é um exemplo de aplicação da biblioteca Streamlit.
 O Streamlit é uma biblioteca de código aberto que facilita a criação de aplicativos para visualização de dados na web. O Streamlit transforma os dados em aplicativos interativos e compartilháveis, sem a necessidade de conhecimento prévio de desenvolvimento web. 
+O código é desenvolvido em Python usando a biblioteca Streamlit.
 
-O deploy é gratuito.
+Para fazer o deploy, basta criar um novo repositório público no GitHub (gratuito) com os arquivos app.py e requirements.txt. Após, basta conectar esse repositório ao site do Streamlit. A plataforma gera um URL e hospeda todo o aplicativo.
 
 """
 
+---
+
 """
-# Ocorrências de Aviação Civil Brasileira
+# Ocorrências na Aviação Civil Brasileira
 """
 
 # Importar os dados
